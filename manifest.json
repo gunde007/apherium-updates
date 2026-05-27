@@ -1,0 +1,8 @@
+{
+  "modId": "apherium",
+  "version": "1.0.1",
+  "minecraft": "1.21.11",
+  "neoforge": "21.11.42",
+  "file": "http://localhost:8000/files/apherium-latest.jar",
+  "sha256": "TODO"
+}
